@@ -1,0 +1,96 @@
+/* body {
+    margin: 50px auto;
+    width: fit-content;
+    font-size: 20px;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 0;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 15px 16px;
+    margin-right: 10px;
+    outline: #b3b3b3;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  .btn {
+    background: #ff6247;
+    color: #ffffff;
+  } */
+  /* * {
+    font-family: sans-serif;
+  }
+  input,
+  button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  input {
+    display: block;
+    margin-bottom: 20px;
+  }
+  button {
+    border: 1px solid gray;
+    background: whitesmoke;
+    margin-right: 5px;
+  }
+  button:nth-last-child(2),
+  button:nth-last-child(1) {
+    background: tomato;
+    color: white;
+  } */
+/* * {
+    font-family: sans-serif;
+    border: 1px solid black;
+} */
+.i,.b,.b1 {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.i {
+    display: block;
+    margin: 0 0 20px 0;
+}
+.b,.b1 {
+    color: black;
+    font-weight: bold;
+    border: 1px solid gray;
+    background: whitesmoke;
+    margin-right: 5px;
+}
+.b:hover,.b1:hover{
+    color: gray;
+}
+/* .b:nth-last-child(2),
+.b:nth-last-child(1) {
+    background: tomato;
+    color: white;
+} */
+.b1{
+    display: block;
+    background: tomato;
+    color: white;
+}
+.b1:nth-last-child(2){
+  margin: 10px 0 10px 0;
+}
+.b1:nth-last-child(1) {
+  margin-bottom: 30px;
+}
+.calc{
+    float: right;
+    border: 5px groove black;
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+    width: fit-content;
+    height: fit-content;
+}
