@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reactworld/static/css/main.bf19317a.css",
-    "main.js": "/reactworld/static/js/main.ddd0c1ac.js",
-    "static/js/787.62d5f28d.chunk.js": "/reactworld/static/js/787.62d5f28d.chunk.js",
-    "static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.gif": "/reactworld/static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.472f7f6ff2130a957b8b.gif",
-    "static/media/pexels-photo-674010.jpeg": "/reactworld/static/media/pexels-photo-674010.b169e1b3ef55ac0e1756.jpeg",
-    "static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.jpg": "/reactworld/static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.682fb039dfcfe0af995d.jpg",
-    "static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.avif": "/reactworld/static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.673e1561fca0eb820772.avif",
-    "index.html": "/reactworld/index.html",
-    "main.bf19317a.css.map": "/reactworld/static/css/main.bf19317a.css.map",
-    "main.ddd0c1ac.js.map": "/reactworld/static/js/main.ddd0c1ac.js.map",
-    "787.62d5f28d.chunk.js.map": "/reactworld/static/js/787.62d5f28d.chunk.js.map"
+    "main.css": "/projectreact/static/css/main.05e2ad4e.css",
+    "main.js": "/projectreact/static/js/main.5b2443da.js",
+    "static/js/787.62d5f28d.chunk.js": "/projectreact/static/js/787.62d5f28d.chunk.js",
+    "static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.gif": "/projectreact/static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.472f7f6ff2130a957b8b.gif",
+    "static/media/pexels-photo-674010.jpeg": "/projectreact/static/media/pexels-photo-674010.b169e1b3ef55ac0e1756.jpeg",
+    "static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.jpg": "/projectreact/static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.682fb039dfcfe0af995d.jpg",
+    "static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.avif": "/projectreact/static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.673e1561fca0eb820772.avif",
+    "index.html": "/projectreact/index.html",
+    "main.05e2ad4e.css.map": "/projectreact/static/css/main.05e2ad4e.css.map",
+    "main.5b2443da.js.map": "/projectreact/static/js/main.5b2443da.js.map",
+    "787.62d5f28d.chunk.js.map": "/projectreact/static/js/787.62d5f28d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf19317a.css",
-    "static/js/main.ddd0c1ac.js"
+    "static/css/main.05e2ad4e.css",
+    "static/js/main.5b2443da.js"
   ]
 }
